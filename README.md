@@ -1,6 +1,30 @@
 <div align="center">
 Hi, I'm Hasan Issa 👋
+# Hi, I'm Hasan 👋
 
+AI Automation Engineer specializing in AI Agents and Business Automation.
+
+I design intelligent systems that help companies:
+- Qualify leads automatically
+- Automate customer support
+- Connect business tools using APIs
+- Reduce repetitive operations
+
+## Tech Stack
+
+🤖 AI Agents
+⚙️ n8n
+🐍 Python
+🔌 APIs
+🗄️ Databases
+
+## Featured Projects
+
+🚀 AI Lead Qualification System
+Automated lead scoring system using AI + n8n.
+
+🚀 AI Sales Agent
+AI assistant that handles sales workflows.
 AI Automation Engineer
 
 I build AI agents and automate workflows.
