@@ -1,6 +1,6 @@
 <div align="center">
 Hi, I'm Hasan Issa 👋
-# Hi, I'm Hasan 👋
+
 
 AI Automation Engineer specializing in AI Agents and Business Automation.
 
